@@ -11,3 +11,4 @@ twitter_username: don't have twitter yet...
 github_username:  LOLIMHUMAN
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
