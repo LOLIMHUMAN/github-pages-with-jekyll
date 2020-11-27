@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Welcome to my №1 Web page!
 
-I'm glad you are here. I plan to talk about ...
+This is open source project,
+so you can find it on Github!
